@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me on my [Email] pushkargaikwad25@gmail.com | [Linkedin](https://www.linkedin.com/in/pushkar-gaikwad-691666318/) |[Leetcode](https://leetcode.com/u/pushkar2510/) | [Instagram](https://www.instagram.com/pushkar25.10/)
+- 📫 How to reach me on my [Email] pushkargaikwad25@gmail.com | [Linkedin](https://www.linkedin.com/in/pushkar-gaikwad-691666318/) | [Leetcode](https://leetcode.com/u/pushkar2510/) | [Instagram](https://www.instagram.com/pushkar25.10/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm Straight 
 
