@@ -1,25 +1,53 @@
-<h1 align="center">Hi 👋, I'm Pushkar Gaikwad</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+## Hi there! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pushkar2510&label=Profile%20views&color=0e75b6&style=flat" alt="pushkar2510" /> </p>
+I'm **Pushkar Gaikwad**, a passionate 3rd-year B.E. student specializing in AI and Data Science at SPPU. 🚀 I love exploring innovative technologies and creating impactful solutions.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pushkar2510" alt="pushkar2510" /></a> </p>
+## About Me
 
-- 🔭 I’m currently working on **PlaceTrix**
+Based in Nashik, Maharashtra, India, I'm currently a member of [360ViewTech](https://github.com/360ViewTech). My journey in Artificial Intelligence and Data Science fuels my ambition to contribute to groundbreaking projects.
 
-- 👨‍💻 All of my projects are available at [https://github.com/pushkar2510/](https://github.com/pushkar2510/)
+## Skills & Technologies
 
-- 📫 How to reach me **pushkargaikwad25@gmail.com**
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pushkar2510" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pushkar2510" height="30" width="40" /></a>
-<a href="https://instagram.com/pushkar25.10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pushkar25.10" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@pushkr25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@pushkr25" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pushkar2510" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pushkar2510" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## Top Projects
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pushkar2510&show_icons=true&locale=en&layout=compact" alt="pushkar2510" /></p>
+- [PlaceTrix](https://play.google.com/store/apps/details?id=com.viewtech360.placetrix) : An end-to-end campus placement management system. | 💻 Language : Dart | 🧑‍💻 Framework : Flutter
+- [Legisly](https://github.com/pushkar2510/Legisly) : A legal AI chatbot platform. | 💻 Language : CSS
+- [Doc_Sum](https://github.com/pushkar2510/Doc_Sum) : Document summarizer built using Python. | 💻 Language : Python 
+- [SPPU-CGPA-Calculator](https://github.com/pushkar2510/SPPU-CGPA-Calculator) : A simple CGPA calculator for SPPU affiliated students. | 💻 Language : HTML 
+- [lotuscomputer](https://github.com/pushkar2510/lotuscomputer) : Website for Lotus Computers. | 💻 Language : HTML
+- [currency_converter](https://github.com/pushkar2510/currency_converter) : A demo application for currency conversion. | 💻 Language : Dart 
+
+
+
+## GitHub Stats
+
+📊 **Public Repositories:** 7  
+👥 **Followers:** 9  
+🔗 **Following:** 21  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pushkar2510&show_icons=true&theme=radical)
+
+## Recent Activity
+
+- 📝 Pushed updates to [PlaceTrix](https://github.com/pushkar2510/PlaceTrix) 
+- ⭐️ Starred [currency_converter](https://github.com/pushkar2510/currency_converter) 
+- 🔄 Forked [lotuscomputer](https://github.com/destined07/lotuscomputer) 
+- 📥 Created new issue in [SPPU-CGPA-Calculator](https://github.com/pushkar2510/SPPU-CGPA-Calculator) 
+- 💬 Commented on pull request in [Doc_Sum](https://github.com/pushkar2510/Doc_Sum)
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pushkar2510) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pushkar25.10) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pushkargaikwad25@gmail.com)
