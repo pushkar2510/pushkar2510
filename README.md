@@ -1,3 +1,5 @@
+<img width="1584" height="396" alt="Pushkar LinkedIn" src="https://github.com/user-attachments/assets/13d71133-e1b0-4cac-b3ea-d60b186870d0" />
+
 ## Hi there! 👋
 
 I'm **Pushkar Gaikwad**, a passionate 3rd-year B.E. student specializing in AI and Data Science at SPPU. 🚀 I love exploring innovative technologies and creating impactful solutions.
