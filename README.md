@@ -4,11 +4,11 @@
 
 I'm **Pushkar Gaikwad**, a passionate 3rd-year B.E. student specializing in AI and Data Science at SPPU. 🚀 I love exploring innovative technologies and creating impactful solutions.
 
-## About Me
+## About Me 🫠
 
-Based in Nashik, Maharashtra, India, I'm currently a member of [360ViewTech](https://github.com/360ViewTech). My journey in Artificial Intelligence and Data Science fuels my ambition to contribute to groundbreaking projects.
+Based in Nashik, Maharashtra, India, I'm currently **Co-Lead Developer** for **[360ViewTech](https://github.com/360ViewTech)**. My journey in Artificial Intelligence and Data Science fuels my ambition to contribute to groundbreaking projects.
 
-## Skills & Technologies
+## Skills & Technologies ⚙️
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -21,34 +21,17 @@ Based in Nashik, Maharashtra, India, I'm currently a member of [360ViewTech](htt
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 
-## Top Projects
+## Top Projects 🧑‍💻
 
-- [PlaceTrix](https://play.google.com/store/apps/details?id=com.viewtech360.placetrix) : An end-to-end campus placement management system. | 💻 Language : Dart | 🧑‍💻 Framework : Flutter
-- [Legisly](https://github.com/pushkar2510/Legisly) : A legal AI chatbot platform. | 💻 Language : CSS
-- [Doc_Sum](https://github.com/pushkar2510/Doc_Sum) : Document summarizer built using Python. | 💻 Language : Python 
-- [SPPU-CGPA-Calculator](https://github.com/pushkar2510/SPPU-CGPA-Calculator) : A simple CGPA calculator for SPPU affiliated students. | 💻 Language : HTML 
-- [lotuscomputer](https://github.com/pushkar2510/lotuscomputer) : Website for Lotus Computers. | 💻 Language : HTML
-- [currency_converter](https://github.com/pushkar2510/currency_converter) : A demo application for currency conversion. | 💻 Language : Dart 
+- **[PlaceTrix](https://play.google.com/store/apps/details?id=com.viewtech360.placetrix)** by **[360ViewTech](https://github.com/360ViewTech):** An end-to-end campus placement management system. | 💻 Language : Dart | 🧑‍💻 Framework : Flutter
+- **[Legisly](https://github.com/pushkar2510/Legisly) :** A legal AI chatbot platform. | 💻 Language : CSS
+- **[Doc_Sum](https://github.com/pushkar2510/Doc_Sum) :** Document summarizer built using Python. | 💻 Language : Python 
+- **[SPPU-CGPA-Calculator](https://github.com/pushkar2510/SPPU-CGPA-Calculator) :** A simple CGPA calculator for SPPU affiliated students. | 💻 Language : HTML 
+- **[lotuscomputer](https://github.com/pushkar2510/lotuscomputer) :** Website for Lotus Computers. | 💻 Language : HTML
+- **[currency_converter](https://github.com/pushkar2510/currency_converter) :** A demo application for currency conversion. | 💻 Language : Dart 
 
 
-
-## GitHub Stats
-
-📊 **Public Repositories:** 7  
-👥 **Followers:** 9  
-🔗 **Following:** 21  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pushkar2510&show_icons=true&theme=radical)
-
-## Recent Activity
-
-- 📝 Pushed updates to [PlaceTrix](https://github.com/pushkar2510/PlaceTrix) 
-- ⭐️ Starred [currency_converter](https://github.com/pushkar2510/currency_converter) 
-- 🔄 Forked [lotuscomputer](https://github.com/destined07/lotuscomputer) 
-- 📥 Created new issue in [SPPU-CGPA-Calculator](https://github.com/pushkar2510/SPPU-CGPA-Calculator) 
-- 💬 Commented on pull request in [Doc_Sum](https://github.com/pushkar2510/Doc_Sum)
-
-## Connect with Me
+## Connect with Me 💬
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pushkar2510) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pushkar25.10) 
