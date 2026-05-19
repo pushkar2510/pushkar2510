@@ -1,4 +1,8 @@
-<img width="1584" height="396" alt="Pushkar LinkedIn" src="https://github.com/user-attachments/assets/13d71133-e1b0-4cac-b3ea-d60b186870d0" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assests/banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="assests/banner-light.png">
+  <img src="assests/banner-dark.png" alt="Pushkar LinkedIn Banner">
+</picture>
 
 ## Hi there! 👋
 
