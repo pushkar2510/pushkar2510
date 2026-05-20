@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assests/banner-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="assests/banner-light.png">
-  <img src="assests/banner-dark.png" alt="Pushkar LinkedIn Banner">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.png">
+  <img src="assets/banner-dark.png" alt="GitHub Banner">
 </picture>
 
 ## Hi there! 👋
